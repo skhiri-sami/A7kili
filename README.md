@@ -1,2 +1,2 @@
 # A7kili
-A Client-Server Chat application unsing sockets in Qt C++
+A multiplateform Client-Server Chat application unsing sockets in Qt C++
